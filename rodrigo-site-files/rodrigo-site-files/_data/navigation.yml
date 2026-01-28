@@ -1,0 +1,10 @@
+# Main navigation links
+main:
+  - title: "About"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "CV"
+    url: /cv/
