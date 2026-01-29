@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Rodrigo Yepez-Lopez"
 title_separator          : "-"
 name                     : &name "Rodrigo Yepez-Lopez"
-description              : &description "Machine Learning Engineer & Data Scientist"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Computer Science Engineer (M.S.) | Software Engineering, Data Infrastructure & Applied ML"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://rodrigoyepez.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
